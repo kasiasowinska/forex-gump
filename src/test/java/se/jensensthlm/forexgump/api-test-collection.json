@@ -1,0 +1,34 @@
+{
+  "info": {
+    "_postman_id": "66cbff48-ca9c-452c-bfdd-4f5e7b44ea24",
+    "name": "Forex",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "21139920"
+  },
+  "item": [
+    {
+      "name": "Get Buy GPB 100",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get USD",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get usd",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}

@@ -1,8 +1,14 @@
 1-
-
+No because we get a internal service error
 
 2-
-
+No
 
 
 3-
+
+1. Does the API respond with the proper codes in the three tested cases? Why?
+
+2- Do Dtos need to be tested? Why?
+
+3- Criticize the application. Reveal the weak parts you can spot and propose ideas to improve them
