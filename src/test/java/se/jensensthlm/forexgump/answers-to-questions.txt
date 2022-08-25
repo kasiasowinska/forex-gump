@@ -2,13 +2,18 @@
 No because we get a internal service error
 
 2-
-No
-
+No because they are tested indirectly
 
 3-
+get code 400 instead of 500
 
-1. Does the API respond with the proper codes in the three tested cases? Why?
+getting info from the api could be more consistent, one "get" method needs to be sent through the body while
+another does not.
 
-2- Do Dtos need to be tested? Why?
+the response could be more informative, all you get now is "currency" and "ammount" no matter what you have
+asked for. You should be able to know how much of what currency you need to pay by looking at the response.
 
-3- Criticize the application. Reveal the weak parts you can spot and propose ideas to improve them
+have an option to view a selected currency's changes in value the past x days.
+
+
+
